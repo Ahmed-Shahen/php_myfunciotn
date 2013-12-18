@@ -1,9 +1,8 @@
-
 # price product by visitor country currency
 # Ahmed-Shahen
 
 
-$count = @file_get_contents("http://api.falconx.net/ip/?country");
+$count = @file_get_contents("http://api.falconx.net/ip/?country=127.0.0.1");
 $small  = '$20';
 $medium = '$25';
 $big    = '$35';
