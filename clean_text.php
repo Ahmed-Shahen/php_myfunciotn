@@ -3,9 +3,9 @@
 /*
  @ Clean Text Function PHP
  @ Author      : Ahmed Shahen
- @ Author url  : https://github.com/Ahmed-Shahen
+ @ Author url  : https://github.com/alshahen
  @ License     : GNU GENERAL PUBLIC LICENSE  
- @ Github url  : https://github.com/Ahmed-Shahen/php_myfunciotn	
+ @ Github url  : https://github.com/alshahen/php_myfunction	
  @ version     : 1.0.3
 
 */
