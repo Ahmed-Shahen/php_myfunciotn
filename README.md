@@ -1,4 +1,4 @@
-php_myfunciotn
+php_myfunction
 ==============
 
 just some function
